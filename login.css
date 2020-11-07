@@ -1,0 +1,35 @@
+.login-card{
+	color: white;
+	background-color: #000;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 5%;
+	} 
+.radio2{
+margin-left: 12%;
+}
+.head{
+	text-align: center;
+}
+.radio{
+	text-align: center;
+}
+.radio3{
+	padding-left: 13em;
+	text-align: center;
+
+}
+.radio4{
+	padding-left: 14em;
+	text-align: center;
+
+}
+#radio3{
+	margin-left: 10em;
+}
+.button{
+	margin-top: 1em;
+	text-align: center;
+	margin-bottom: 2em;
+	margin-left: 11em;
+}
